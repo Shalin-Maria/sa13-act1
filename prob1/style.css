@@ -1,0 +1,39 @@
+body {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    background-color: #ebd1f7;
+  }
+  
+  header {
+    background-color: #edd0fb;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  article {
+    margin-bottom: 40px;
+  }
+  
+  h1, h2 {
+    color: #d72c2c;
+  }
+  
+  footer {
+    background-color: #320332;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
